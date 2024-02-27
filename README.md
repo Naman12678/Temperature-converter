@@ -1,2 +1,2 @@
 # Temperature-converter
-It is Celcius to Fahrenheit.
+It is a Celcius to Fahrenheit temperature converter
